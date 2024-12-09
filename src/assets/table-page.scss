@@ -1,0 +1,11 @@
+.modal-footer {
+    button {
+        border: 1px solid rgb(231, 223, 223);
+    }
+    button:hover {
+        border: 1px solid rgb(93, 67, 211);
+    }
+    button:last-of-type {
+        margin-left: 15px;
+    }
+}
